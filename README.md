@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, İsmim Bedirhan</h1>
-<h3 align="center">Merhabalar ben bedirhan ana mesleğim inşaat mühendisliği fakat küçüklüğümden beri gelen bilişim sektörüne merakımdan dolayı yazılımla uğraşmaktayım. Şu an kendime bir hedef koymuş bulunmaktayım siber güvenlik üzerine yüksek lisans yapıp o yönde ilerlemeyi düşünüyorum </h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhankucukal&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhankucukal" /> </p>
 
