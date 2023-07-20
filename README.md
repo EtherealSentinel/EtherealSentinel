@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, İsmim Bedirhan</h1>
+<h1 align="center">Merhaba 👋, Ben Bedirhan profilime hoş geldin </h1>
 <h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhankucukal&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhankucukal" /> </p>
