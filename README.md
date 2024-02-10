@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Bedirhan profilime hoş geldin </h1>
-<h3 align="center"> </h3>
+<h3 align="center"> Merhabalar ben Bedirhan lisans eğitimimi inşaat mühendisliği programını tamamlayarak bitirdim. Mühendislik becerilerimi kullanmayı gerçekten seviyorum.
+Küçüklüğümden gelen teknoloji merakım yüzünden bu mecraya gelmiş bulunmaktayım temel seviye python bilgisine sahibim ayrıca front end kategorisinde de bilgi sahibiyim orta seviye sayılabilecek işler ve siparişler aldım. Fakat şu an yine teknoloji sevdam ve gelişen, değişen dünyaya ayak uydurmak için yapay zeka üzerine eğilmiş bulunmaktayım kendimi şuan yapay zeka üzerine geliştiriyorum, tanıştığıma memnum oldum </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhankucukal&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhankucukal" /> </p>
 
