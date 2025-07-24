@@ -5,7 +5,7 @@
 
 <h3 align="left">Benimle iletişime geçmek için:</h3>
 <p align="left">
-<a href="https://twitter.com/bedirhankckl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedirhankckl" height="30" width="40" /></a>
+/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedirhankckl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bedirhankucukal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhankucukal" height="30" width="40" /></a>
 </p>
 
